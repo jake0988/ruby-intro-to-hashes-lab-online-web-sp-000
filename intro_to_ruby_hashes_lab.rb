@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-
+  hash = { :key => value }
 end
 
 def monopoly
